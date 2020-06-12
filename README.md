@@ -37,6 +37,9 @@ For a complete example of applying the method described in the paper to perform 
   </tr>
 </table>
 
+For a much faster execution with `Colab`, change the default setting at the runtime type menu to `Hardware
+accelerator: None`
+
 ## Local installation
 
 To install the `sde` package and dependencies to run the notebook locally, first create a local clone of the repository
